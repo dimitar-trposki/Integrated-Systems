@@ -1,0 +1,12 @@
+C:\Users\dimit\source\repos\LV1AApp\LV1A.Domain\bin\Debug\net8.0\LV1A.Domain.deps.json
+C:\Users\dimit\source\repos\LV1AApp\LV1A.Domain\bin\Debug\net8.0\LV1A.Domain.dll
+C:\Users\dimit\source\repos\LV1AApp\LV1A.Domain\bin\Debug\net8.0\LV1A.Domain.pdb
+C:\Users\dimit\source\repos\LV1AApp\LV1A.Domain\obj\Debug\net8.0\LV1A.Domain.csproj.AssemblyReference.cache
+C:\Users\dimit\source\repos\LV1AApp\LV1A.Domain\obj\Debug\net8.0\LV1A.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dimit\source\repos\LV1AApp\LV1A.Domain\obj\Debug\net8.0\LV1A.Domain.AssemblyInfoInputs.cache
+C:\Users\dimit\source\repos\LV1AApp\LV1A.Domain\obj\Debug\net8.0\LV1A.Domain.AssemblyInfo.cs
+C:\Users\dimit\source\repos\LV1AApp\LV1A.Domain\obj\Debug\net8.0\LV1A.Domain.csproj.CoreCompileInputs.cache
+C:\Users\dimit\source\repos\LV1AApp\LV1A.Domain\obj\Debug\net8.0\LV1A.Domain.dll
+C:\Users\dimit\source\repos\LV1AApp\LV1A.Domain\obj\Debug\net8.0\refint\LV1A.Domain.dll
+C:\Users\dimit\source\repos\LV1AApp\LV1A.Domain\obj\Debug\net8.0\LV1A.Domain.pdb
+C:\Users\dimit\source\repos\LV1AApp\LV1A.Domain\obj\Debug\net8.0\ref\LV1A.Domain.dll
