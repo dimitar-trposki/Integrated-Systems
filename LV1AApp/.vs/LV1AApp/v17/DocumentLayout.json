@@ -1,12 +1,71 @@
 {
   "Version": 1,
   "WorkspaceRootPath": "C:\\Users\\dimit\\source\\repos\\LV1AApp\\",
-  "Documents": [],
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\dimit\\source\\repos\\LV1AApp\\LV1A.Web\\Data\\Migrations\\20250331191541_initial1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:LV1A.Web\\Data\\Migrations\\20250331191541_initial1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5F69B41F-CB64-4DED-BEB9-071C7393AA37}|LV1A.Web\\LV1A.Web.csproj|c:\\users\\dimit\\source\\repos\\lv1aapp\\lv1a.web\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5F69B41F-CB64-4DED-BEB9-071C7393AA37}|LV1A.Web\\LV1A.Web.csproj|solutionrelative:lv1a.web\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3CEBD39B-2708-4268-8562-BBCB7CE5711E}|LV1A.Domain\\LV1A.Domain.csproj|c:\\users\\dimit\\source\\repos\\lv1aapp\\lv1a.domain\\identity\\courseapplicationuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3CEBD39B-2708-4268-8562-BBCB7CE5711E}|LV1A.Domain\\LV1A.Domain.csproj|solutionrelative:lv1a.domain\\identity\\courseapplicationuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
       "VerticalTabListWidth": 256,
-      "DocumentGroups": []
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "20250331191541_initial1.cs",
+              "DocumentMoniker": "C:\\Users\\dimit\\source\\repos\\LV1AApp\\LV1A.Web\\Data\\Migrations\\20250331191541_initial1.cs",
+              "RelativeDocumentMoniker": "LV1A.Web\\Data\\Migrations\\20250331191541_initial1.cs",
+              "ToolTip": "C:\\Users\\dimit\\source\\repos\\LV1AApp\\LV1A.Web\\Data\\Migrations\\20250331191541_initial1.cs",
+              "RelativeToolTip": "LV1A.Web\\Data\\Migrations\\20250331191541_initial1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-31T19:15:41.626Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "CourseApplicationUser.cs",
+              "DocumentMoniker": "C:\\Users\\dimit\\source\\repos\\LV1AApp\\LV1A.Domain\\Identity\\CourseApplicationUser.cs",
+              "RelativeDocumentMoniker": "LV1A.Domain\\Identity\\CourseApplicationUser.cs",
+              "ToolTip": "C:\\Users\\dimit\\source\\repos\\LV1AApp\\LV1A.Domain\\Identity\\CourseApplicationUser.cs",
+              "RelativeToolTip": "LV1A.Domain\\Identity\\CourseApplicationUser.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-31T19:13:00.813Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ApplicationDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\dimit\\source\\repos\\LV1AApp\\LV1A.Web\\Data\\ApplicationDbContext.cs",
+              "RelativeDocumentMoniker": "LV1A.Web\\Data\\ApplicationDbContext.cs",
+              "ToolTip": "C:\\Users\\dimit\\source\\repos\\LV1AApp\\LV1A.Web\\Data\\ApplicationDbContext.cs",
+              "RelativeToolTip": "LV1A.Web\\Data\\ApplicationDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAABQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-31T19:12:18.838Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
     }
   ]
 }
